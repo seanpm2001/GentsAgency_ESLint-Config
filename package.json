@@ -1,0 +1,35 @@
+{
+  "name": "@gentsagency/eslint-config",
+  "version": "1.0.0",
+  "description": "eslint config for Gents agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentsagency/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslintconfig"
+  ],
+  "author": "Pieter Beulque <pieterbeulque@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gentsagency/eslint-config/issues"
+  },
+  "homepage": "https://github.com/gentsagency/eslint-config#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^12.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-plugin-import": "^2.7.0"
+  },
+  "peerDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
