@@ -12,6 +12,7 @@ module.exports = {
 		'arrow-parens': [ 'error', 'always' ],
 		'func-names': [ 'warn', 'as-needed'],
 		'new-cap': [ 'error', { properties: false } ],
+		'no-plusplus': [ 'error', { allowForLoopAfterthoughts: true } ],
 		'no-tabs': 'off',
 		indent: [ 'error', 'tab' ],
 	}

@@ -9,4 +9,5 @@ The few exceptions we make at Gents are listed below:
  - Parens are always required in arrow functions
  - Anonymous functions have to be named for easier debugging
  - Constructor call have to be capitalized, except when initializing an object property
+ - Unary operators (`++` and `--`) are allowed inside `for` loops
  - We use tabs, not spaces
