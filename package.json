@@ -1,7 +1,7 @@
 {
   "name": "@gentsagency/eslint-config",
-  "version": "1.0.1",
-  "description": "eslint config for Gents agency",
+  "version": "2.0.0",
+  "description": "ESLint config for Gents agency",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
